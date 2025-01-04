@@ -37,7 +37,7 @@ const projects = {
             ]
         },
         {
-            image: '/assets/projects/Portfolio.png',
+            image: '/assets/projects/portfolio.png',
             label: 'Featured Project',
             title: `Personal Portfolio`,
             description: `This portfolio is built using React.js for a dynamic and interactive user interface, JavaScript for functionality, and Tailwind CSS for a responsive, modern design. The backend is powered by Node.js, ensuring a seamless, scalable experience for users while showcasing projects, skills, and achievements.`,
