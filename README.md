@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Kshitish_Portfolio
 =======
 <h1 align="center">
@@ -73,3 +74,6 @@ OpenSource contribution is something that makes internet more beautiful. So any 
 >>>>>>> c727f5f (initial commit)
 =======
 >>>>>>> 350df4a (Update README.md)
+=======
+# Kshitish_Portfolio
+>>>>>>> origin/main
