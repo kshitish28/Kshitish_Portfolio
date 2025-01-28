@@ -13,7 +13,7 @@ const header = {
     ],
     rightBtn: {
         label: 'Curriculum Vitae | CV',
-        onClick: () => openLink('assets/Kshitish_Freshers.pdf')
+        onClick: () => openLink('assets/Kshitish_Resume_Freshers.pdf')
     },
     logo: {
         src: '/assets/profile.jpeg',

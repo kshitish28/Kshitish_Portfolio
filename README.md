@@ -2,14 +2,14 @@
 # Kshitish_Portfolio
 =======
 <h1 align="center">
-    Afzal Imdad - Portfolio
+    Kshitish Kumar Moharana - Portfolio
 </h1>
 <p align="center">
-  This personal portfolio website is developed by using <a href="https://www.netlify.com/" target="_blank">Next.js</a>.
+  This personal portfolio website is developed by using <a href="https://www.vercel.app/" target="_blank">Next.js</a>.
 </p>
 <p align="center">
   Check Demo:
-  <a href="http://kshitish28s.vercel.app" target="_blank">Personal Portfolio</a>
+  <a href="https://kshitish28-portfolio.vercel.app/" target="_blank">Personal Portfolio</a>
 </p>
 
 <div align="center">
@@ -69,4 +69,7 @@ OpenSource contribution is something that makes internet more beautiful. So any 
 3. Commit your Changes (`git commit -m 'Added some xyz_feature'`)
 4. Push to the Branch (`git push origin feature/xyz_feature`)
 5. Open a Pull Request
+<<<<<<< HEAD
 >>>>>>> c727f5f (initial commit)
+=======
+>>>>>>> 350df4a (Update README.md)
